@@ -1,2 +1,2 @@
-# CS-1004-README.txt
+# CS-1004
 Introduction to Programming for Non-Majors
